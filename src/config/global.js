@@ -1,9 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    Name: 'Atención intersectorial y restablecimiento de derechos',
+    Description:
+      'Este componente formativo aborda la articulación intersectorial necesaria para el restablecimiento de los derechos de las personas víctimas de violencias sexuales, mediante la activación de rutas de atención, la coordinación entre los sectores de salud, protección y justicia, y la aplicación de procedimientos establecidos para la protección integral, el seguimiento y el cierre del caso.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

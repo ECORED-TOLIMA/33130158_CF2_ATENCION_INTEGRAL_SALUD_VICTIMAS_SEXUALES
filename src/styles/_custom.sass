@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 25%
+    right: 5%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 52%
+    right: 73%
 
 @keyframes float1
   0%
@@ -23,10 +23,52 @@
   width: 400px !important  
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: black !important
 
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero
+  background-color: #BBDED6
+
+.banner-principal p, h1
+  color: black !important
+
+.barra-avance__boton--regresar span 
+    color: #ffffff !important
+
+.boton *
+    color: #ffffff !important
+
+.bg
+  &-base 
+    background-color: $color-primario !important
+  &-r8
+    border-radius: 8px
+  &-base1
+    background-image: url(../assets/curso/temas/bg1.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -3.2rem !important
+  &-base2
+    background-image: url(../assets/curso/temas/bg2.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -6.2rem !important
+  &-base3
+    background-image: url(../assets/curso/temas/bg3.png)
+    background-repeat: no-repeat
+    background-size: cover
+    margin-inline: -6.2rem !important
+  &-base4
+    //background-image: url(../assets/curso/tema1/bg2.png)
+    background-repeat: no-repeat
+
+    @media (max-width: 768px) 
+      background-image: none
+      background-color: #F8DFFF
+  &-base5
+    background-color: #FFBDB6 !important

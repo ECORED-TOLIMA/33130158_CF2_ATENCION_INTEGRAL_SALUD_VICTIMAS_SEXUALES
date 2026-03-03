@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="Grupo_1180868" data-name="Grupo 1180868" transform="translate(-185.711 -2433)">
+    <rect id="Rectángulo_455054" data-name="Rectángulo 455054" width="84" height="84" rx="10" transform="translate(185.711 2433)" fill="#bbded6"/>
+    <g id="Grupo_1183286" data-name="Grupo 1183286" transform="translate(195.891 2443)">
+      <path id="Trazado_1009617" data-name="Trazado 1009617" d="M45,44V60a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2V8A2,2,0,0,1,5,6H43a2,2,0,0,1,2,2V34" fill="#e2e1e0"/>
+      <path id="Trazado_1009618" data-name="Trazado 1009618" d="M45,58h4a2,2,0,0,0,2-2V4a2,2,0,0,0-2-2H11A2,2,0,0,0,9,4V6H43a2,2,0,0,1,2,2Z" fill="#ccc"/>
+      <circle id="Elipse_13942" data-name="Elipse 13942" cx="11" cy="11" r="11" transform="translate(39 12)" fill="#559b2d"/>
+      <path id="Trazado_1009619" data-name="Trazado 1009619" d="M39,23a10.989,10.989,0,0,0,6.029,9.8,17.059,17.059,0,0,0,5.733-20.766c-.253-.017-.5-.038-.762-.038A11,11,0,0,0,39,23Z" fill="#66aa3a"/>
+      <path id="Trazado_1009620" data-name="Trazado 1009620" d="M28,32h4v8H28Z" fill="#b5b5b5"/>
+      <path id="Trazado_1009621" data-name="Trazado 1009621" d="M16,32h4v8H16Z" fill="#b5b5b5"/>
+      <path id="Trazado_1009622" data-name="Trazado 1009622" d="M12.507,25.594l7.931-6.345a5.7,5.7,0,0,1,7.123,0l7.932,6.346A1.351,1.351,0,0,1,34.649,28h-21.3a1.351,1.351,0,0,1-.842-2.406Z" fill="#4c6cb5"/>
+      <path id="Trazado_1009623" data-name="Trazado 1009623" d="M14,28v4H34V28" fill="#3b5892"/>
+      <path id="Trazado_1009624" data-name="Trazado 1009624" d="M14,40H34v4H14Z" fill="#4c6cb5"/>
+      <circle id="Elipse_13943" data-name="Elipse 13943" cx="2" cy="2" r="2" transform="translate(22 21)" fill="#5e87ca"/>
+      <path id="Trazado_1009625" data-name="Trazado 1009625" d="M7,48H41v4H7Z" fill="#3b5892"/>
+      <path id="Trazado_1009626" data-name="Trazado 1009626" d="M55,17l-8,8-2-2-2,2,4,4L57,19Z" fill="#e2e7f6"/>
+      <path id="Trazado_1009627" data-name="Trazado 1009627" d="M8,13H40v2H8Z" fill="#ccc"/>
+      <path id="Trazado_1009628" data-name="Trazado 1009628" d="M12,9H36v2H12Z" fill="#ccc"/>
+      <path id="Trazado_1009629" data-name="Trazado 1009629" d="M52.156,19.844,47,25l-2-2-2,2,4,4,4.1-4.1a16.977,16.977,0,0,0,1.056-5.056Z" fill="#f2f2f2"/>
+      <path id="Trazado_1009630" data-name="Trazado 1009630" d="M34,33a1,1,0,0,0,1-1V28.965a2.345,2.345,0,0,0,1.118-4.152l-7.931-6.344a6.7,6.7,0,0,0-8.374,0l-7.931,6.344A2.345,2.345,0,0,0,13,28.965V32a1,1,0,0,0,1,1h1v6H14a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H34a1,1,0,0,0,1-1V40a1,1,0,0,0-1-1H33V33ZM15,31V29H33v2Zm6,8V33h6v6ZM13.132,26.375l7.931-6.345a4.825,4.825,0,0,1,5.874,0l7.931,6.345a.351.351,0,0,1-.219.625h-21.3a.351.351,0,0,1-.219-.625ZM17,33h2v6H17ZM33,43H15V41H33Zm-2-4H29V33h2Z"/>
+      <circle id="Elipse_13944" data-name="Elipse 13944" cx="2" cy="2" r="2" transform="translate(22 21)"/>
+      <path id="Trazado_1009631" data-name="Trazado 1009631" d="M41,47H7a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H41a1,1,0,0,0,1-1V48A1,1,0,0,0,41,47Zm-1,4H8V49H40Z"/>
+      <path id="Trazado_1009632" data-name="Trazado 1009632" d="M62,23A12.009,12.009,0,0,0,52,11.181V4a3,3,0,0,0-3-3H11A3,3,0,0,0,8,4V5H5A3,3,0,0,0,2,8V60a3,3,0,0,0,3,3H43a3,3,0,0,0,3-3V59h3a3,3,0,0,0,3-3V34.819A12.009,12.009,0,0,0,62,23ZM10,4a1,1,0,0,1,1-1H49a1,1,0,0,1,1,1v7a11.922,11.922,0,0,0-4,.7V8a3,3,0,0,0-3-3H10ZM43,61H5a1,1,0,0,1-1-1V8A1,1,0,0,1,5,7H43a1,1,0,0,1,1,1v4.624a11.972,11.972,0,0,0,0,20.752V60A1,1,0,0,1,43,61Zm7-5a1,1,0,0,1-1,1H46V34.3a11.922,11.922,0,0,0,4,.7Zm0-23A10,10,0,1,1,60,23,10,10,0,0,1,50,33Z"/>
+      <path id="Trazado_1009633" data-name="Trazado 1009633" d="M57.707,18.293l-2-2a1,1,0,0,0-1.414,0L47,23.586l-1.293-1.293a1,1,0,0,0-1.414,0l-2,2a1,1,0,0,0,0,1.414l4,4a1,1,0,0,0,1.414,0l10-10A1,1,0,0,0,57.707,18.293ZM47,27.586,44.414,25,45,24.414l1.293,1.293a1,1,0,0,0,1.414,0L55,18.414l.586.586Z"/>
+      <path id="Trazado_1009634" data-name="Trazado 1009634" d="M8,13H40v2H8Z"/>
+      <path id="Trazado_1009635" data-name="Trazado 1009635" d="M12,9H36v2H12Z"/>
+    </g>
+  </g>
+</svg>
