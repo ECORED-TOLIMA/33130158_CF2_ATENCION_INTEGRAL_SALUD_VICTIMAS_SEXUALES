@@ -242,95 +242,100 @@
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/18.png',  style='width: 396px').m-auto
 
-            .col-lg-8
+            .col-lg-8.p-4
               SlyderF(columnas="col-lg-6 col-xl-4")
                 .tarjeta.bg-11.p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-8
-                      img(src='@/assets/curso/tema1/19.svg', alt='').img100.m-auto
-                  h4 Definir la prioridad de atención:
+                      img(src='@/assets/curso/tema1/19.svg', style="max-width: 90px").m-auto
+                  p.text-center
+                    b Definir la prioridad de atención:
                   ul.lista-ul--color
-                    li.d-flex.align-text-center
+                    li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Los procedimientos clínicos propuestos.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Su finalidad y posibles implicaciones.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Las alternativas disponibles.
       
                 .tarjeta.bg-11.p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-8
-                      img(src='@/assets/curso/tema1/20.svg', alt='').img100.m-auto
-                  h4 Garantizar que la decisión de la persona sea:
+                      img(src='@/assets/curso/tema1/20.svg', style="max-width: 90px").m-auto
+                  p.text-center
+                    b Garantizar que la decisión de la persona sea:
                   ul.lista-ul--color
-                    li.d-flex.align-text-center
+                    li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Libre.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Voluntaria.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Sin presión ni coerción.
       
                 .tarjeta.bg-11.p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-8
-                      img(src='@/assets/curso/tema1/21.svg', alt='').img100.m-auto
-                  h4 Obtener consentimiento para:
+                      img(src='@/assets/curso/tema1/21.svg', style="max-width: 90px").m-auto
+                  p.text-center
+                    b Obtener consentimiento para:
                   ul.lista-ul--color
-                    li.d-flex.align-text-center
+                    li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Valoraciones clínicas.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Exámenes físicos o genitales cuando estén indicados.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Toma de muestras.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Intervenciones terapéuticas iniciales
       
                 .tarjeta.bg-11.p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-8
-                      img(src='@/assets/curso/tema1/22.svg', alt='').img100.m-auto
-                  h4 Respetar el derecho de la persona a:
+                      img(src='@/assets/curso/tema1/22.svg', style="max-width: 90px").m-auto
+                  p.text-center
+                    b Respetar el derecho de la persona a:
                   ul.lista-ul--color
-                    li.d-flex.align-text-center
+                    li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Aceptar o rechazar procedimientos.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Retirar su consentimiento en cualquier momento.
       
                 .tarjeta.bg-11.p-4
-                  .row.justify-content-center.mb-3
+                  .row.justify-content-center
                     .col-8
-                      img(src='@/assets/curso/tema1/23.svg', alt='').img100.m-auto
-                  h4 En los casos de niños, niñas y adolescentes:
+                      img(src='@/assets/curso/tema1/23.svg', style="max-width: 90px").m-auto
+                  p.text-center
+                    b En los casos de niños, niñas y adolescentes:
                   ul.lista-ul--color
-                    li.d-flex.align-text-center
+                    li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Garantizar su participación acorde con su edad y madurez.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Aplicar el principio del interés superior.
           
-                    li.d-flex.align-items-start
+                    li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
                       p.mb-0 Obtener la autorización del representante legal.
 
