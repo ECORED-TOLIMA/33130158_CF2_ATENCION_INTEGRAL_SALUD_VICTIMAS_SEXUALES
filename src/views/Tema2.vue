@@ -77,10 +77,10 @@
 
     p.mt-4 La profilaxis sindromática busca prevenir infecciones que pueden adquirirse como consecuencia de la violencia sexual, aun cuando no existan síntomas al momento de la consulta. En la atención inicial se debe:
 
-    TabsB.color-acento-contenido.bg-base6
+    TabsC.color-acento-contenido
       //- Pestaña 1
-      .py-4.py-md-5(titulo="Profilaxis para infecciones de transmisión sexual (ITS)")
-        .row.p-4.align-items-center
+      .py-3.py-md-4.bg-base6(titulo="Profilaxis para infecciones de transmisión sexual (ITS)")
+        .row.p-4
           .col-md-4.mb-4.mb-md-0
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/7.svg', alt='Imagen ITS').m-auto
@@ -150,10 +150,10 @@
                   li
                     i.lista-ul__vineta
                     p.mb-0 Esquema indicado o rechazado.
-
-      //- Pestaña 2
-      .py-4.py-md-5(titulo="Profilaxis para hepatitis B")
-        .row.p-4.align-items-center
+      
+      //-Pestaña 2
+      .py-3.py-md-4.bg-base6(titulo="Profilaxis para hepatitis B")
+        .row.p-4
           .col-md-4.mb-4.mb-md-0
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/8.svg', alt='Imagen Hepatitis B').m-auto
@@ -184,9 +184,9 @@
                     i.lista-ul__vineta
                     p.mb-0 Necesidad de completar dosis.
 
-      //- Pestaña 3
-      .py-4.py-md-5(titulo="Profilaxis posexposición para VIH (PEP)")
-        .row.p-4.align-items-center
+      //-Pestaña 3
+      .py-3.py-md-4.bg-base6(titulo="Profilaxis posexposición para VIH (PEP)")
+        .row.p-4
           .col-md-4.mb-4.mb-md-0
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/9.svg', alt='Imagen VIH').m-auto
@@ -234,6 +234,8 @@
                   li
                     i.lista-ul__vineta
                     p.mb-0 Los posibles efectos secundarios.
+
+    
 
     .row.justify-content-center.mt-4.mb-4
       .col-lg-10

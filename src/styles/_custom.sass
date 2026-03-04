@@ -75,6 +75,9 @@ figcaption
 .lista-ul li p
   margin: 0
 
+.espacio-li
+  margin-left: 2rem
+
 .tabs-b__tab 
   background-color: #E2E1EE
 
@@ -91,6 +94,9 @@ figcaption
 .tabs-b__tab--active .tabs-b__tab__title 
   font-weight: bold
   color: #000
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active:before 
+  border-top-color: #AC064C
 
 
   ///// SLyder A tipo B Custom --------------------------------------
@@ -189,9 +195,24 @@ figcaption
     color: black 
 
 ////////////////
+.tabs-c__tab 
+  background-color: #E2E1EE
 
-.tabs-c.color-acento-botones .tabs-c__tab--active
-  background-color: white !important
+.tabs-c__tab--active 
+  background-color: $white !important
+  font-weight: bold
+
+.tabs-c__header 
+  margin-bottom: 0px
+
+// Color de la línea y el borde de la pestaña activa
+.tabs-c.color-acento-contenido .tabs-c__tab--active 
+  border-top-color: #ac064b00 !important
+  border-bottom: 5px solid #AC064C !important
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active:before 
+  border-top-color: #AC064C
+
   
 .tarjeta--boton 
   background-color: #FCC510
@@ -226,9 +247,6 @@ figcaption
 .tarjeta-avatar img 
   display: inline-block
   max-width: 100%
-
-.tabs-c__tab 
-  background-color: #FFF7E2 !important
 
 .linea-bold
   .linea-tiempo-d__item__content__title 
