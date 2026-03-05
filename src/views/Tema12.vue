@@ -228,32 +228,67 @@
 
     p.mt-4 A continuación, se presentan los elementos que garantizan la efectividad del seguimiento intersectorial, mediante la continuidad del acompañamiento institucional a la víctima y la articulación permanente entre las entidades responsables:
 
-    .row.justify-content-center.mt-4 
+    .row.justify-content-center.mt-4
       .col-lg-10
-        .row.justify-content-center.mt-4
-          .col-lg-5.mb-4.mb-lg-0
+        .row.justify-content-center
+          .col-lg-6.mb-4.mb-lg-0
             .tarjeta.clr-paleYellow.p-4.text-center.bg-base6.h-100
               .row.justify-content-center.mb-3
                 .col-auto
                   .circle-morado
                     figure(data-aos="zoom-in")
 
-                    titulo-fondo Continuidad del acompañamiento intersectorial
+                    .titulo-fondo 
+                      b Continuidad del acompañamiento intersectorial
                     
-              p.text-start De acuerdo con la Organización Mundial de la Salud (OMS), la violencia sexual se define como:
-    
-              p.text-start Todo acto sexual, intento de consumar un acto sexual, comentarios o insinuaciones sexuales no deseadas, o acciones orientadas a comercializar, utilizar o controlar la sexualidad de una persona, mediante coerción, intimidación, amenaza, fuerza física, abuso de poder u otros mecanismos que anulen o limiten la voluntad personal, independientemente de la relación entre la víctima y el agresor y del ámbito en el que ocurra.
-    
-          .col-lg-5.mb-4.mb-lg-0
+              ul.lista-ul--color
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Mantener apoyo institucional permanente.
+          
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Evitar cierres prematuros del proceso.
+
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Prevenir desarticulaciones entre entidades.
+
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Garantizar atención integral sostenida.
+
+          .col-lg-6.mb-4.mb-lg-0
             .tarjeta.clr-paleYellow.p-4.text-center.bg-12.h-100
               .row.justify-content-center.mb-3
                 .col-auto
                   .circle-morado
                     figure(data-aos="zoom-in")
                      
-              p.text-start En el marco normativo colombiano, la Ley 1257 de 2008 define la violencia sexual como:
-    
-              p.text-start Toda acción que cause daño
+                    .titulo-fondo 
+                      b Componentes del acompañamiento continuo
+                    
+              ul.lista-ul--color
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Seguimiento clínico y en salud mental.
+          
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Acompañamiento psicosocial.
+
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Articulación con programas de protección.
+
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Apoyo en el acceso a servicios sociales y educativos.
+
+                li.d-flex.align-items-start
+                  span.icono-img
+                  p.mb-0 Orientación permanente en derechos.
+
 
     
 
