@@ -147,7 +147,7 @@ const router = new VueRouter({
       if (to.name === from.name) {
         return newRoute
       } else {
-        return new Promise((resolve) => {
+        return new Promise(resolve => {
           setTimeout(() => {
             resolve(newRoute)
           }, 500)
