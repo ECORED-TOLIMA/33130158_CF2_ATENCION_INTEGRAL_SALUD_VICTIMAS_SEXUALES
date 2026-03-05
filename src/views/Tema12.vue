@@ -17,7 +17,7 @@
 
         p Para comprender su aplicación y alcance, es necesario precisar el concepto de restablecimiento de derechos, así como sus características esenciales dentro del marco de protección integral:
 
-    .row.bg-112
+    .row.bg-base3.p-5
       .col-lg-12
         .p-5 
           .titulo-tres.mt-5: h3 Concepto de restablecimiento de derechos
@@ -288,22 +288,6 @@
                 li.d-flex.align-items-start
                   span.icono-img
                   p.mb-0 Orientación permanente en derechos.
-
-
-    
-
-
-
-
-
-
-
-
-
-    
-
-
-
 </template>
 
 <script>
