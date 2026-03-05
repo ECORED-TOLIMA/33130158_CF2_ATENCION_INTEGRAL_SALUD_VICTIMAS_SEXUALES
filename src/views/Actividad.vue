@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Atención intersectorial y restablecimiento de derechos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la comprensión de los lineamientos técnicos, clínicos y normativos que orientan la atención integral e intersectorial en salud a víctimas de violencias sexuales, de acuerdo con la normativa colombiana vigente.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -28,28 +28,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            'La profilaxis postexposición para VIH en víctimas de violencia sexual debe iniciarse preferiblemente dentro de las primeras:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: '24 horas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: '48 horas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: '72 horas.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: '96 horas.',
               esCorrecta: false,
             },
           ],
@@ -59,28 +59,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            '¿Cuál es el principal criterio para la indicación de anticoncepción de emergencia en casos de violencia sexual?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'La confirmación del delito.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'El riesgo de embarazo.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'La autorización judicial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La edad de la víctima.',
               esCorrecta: false,
             },
           ],
@@ -89,28 +89,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            'La anticoncepción de emergencia mantiene efectividad hasta un máximo de:',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: '120 horas.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: '72 horas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: '96 horas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: '48 horas.',
               esCorrecta: false,
             },
           ],
@@ -120,28 +121,28 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'La interrupción voluntaria del embarazo (IVE) en casos de violencia sexual:',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Es un derecho fundamental.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Requiere denuncia penal previa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Solo aplica para mayores de edad.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Requiere autorización judicial.',
               esCorrecta: false,
             },
           ],
@@ -150,28 +151,29 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            'El consentimiento informado para la IVE debe caracterizarse por ser:',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Presunto.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Delegado en terceros.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Libre, voluntario e informado.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Emitido únicamente por la familia.',
               esCorrecta: false,
             },
           ],
@@ -181,28 +183,28 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            '¿Cuál de los siguientes NO constituye una barrera de acceso a la IVE?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Exigencia de denuncia penal.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Objeción de conciencia institucional.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Información clara y oportuna.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Retrasos administrativos injustificados.',
               esCorrecta: false,
             },
           ],
@@ -211,29 +213,23 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'Opción a)',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Intervención inmediata y breve.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Tratamiento farmacológico.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'bValues',
+              texto: 'Valoración judicial.',
               esCorrecta: false,
             },
           ],
@@ -243,28 +239,28 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+            '¿Cuál es un objetivo principal de los primeros auxilios psicológicos?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Reducir el impacto emocional inmediato.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Obtener pruebas judiciales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Profundizar en el relato del hecho.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Diagnosticar trastornos mentales.',
               esCorrecta: false,
             },
           ],
@@ -273,20 +269,29 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: 'La valoración del riesgo de autoagresión debe realizarse:',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Solo si la víctima lo solicita.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Desde la atención inicial.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Únicamente por psiquiatría.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Después del proceso judicial.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -295,18 +300,28 @@ export default {
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            'La remisión a atención especializada en salud mental está indicada cuando:',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'La víctima no desea hablar.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Existen síntomas persistentes o riesgo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Se cierra el caso clínico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Finaliza la atención inicial.',
               esCorrecta: false,
             },
           ],
@@ -315,19 +330,28 @@ export default {
         },
         {
           id: 11,
-          texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'El seguimiento clínico de la profilaxis incluye:',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Solo la entrega del medicamento.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Exclusivamente pruebas de laboratorio.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Únicamente atención inicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Control de adherencia y efectos adversos.',
               esCorrecta: true,
             },
           ],
@@ -337,19 +361,29 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'El registro en la historia clínica debe caracterizarse por ser:',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Subjetivo y narrativo.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Breve y sin detalles.',
               esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Orientado a la investigación penal.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Objetivo, completo y confidencial.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -358,18 +392,28 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            'La notificación de violencias sexuales en SIVIGILA tiene como finalidad principal:',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Judicializar el caso.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Vigilancia epidemiológica.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Sancionar al aggressor.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reemplazar la denuncia penal.',
               esCorrecta: false,
             },
           ],
@@ -379,19 +423,29 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            'El Registro Individual de Prestación de Servicios de Salud (RIPS) permite:',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Emitir conceptos forenses.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Sustituir la historia clínica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Garantizar la trazabilidad administrativa.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Activar medidas judiciales.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -399,19 +453,181 @@ export default {
         },
         {
           id: 15,
-          texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'El rol del sector salud en el abordaje forense se limita a:',
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Investigar el delito',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Preservar y remitir evidencias',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Emitir dictámenes periciales',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Interrogar a la víctima',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto: 'La cadena de custodia busca garantizar:',
+          imagen: require('@/assets/actividad/imagen8.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'La integridad del material probatorio.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'La confidencialidad clínica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La continuidad terapéutica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La atención psicológica.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: 'La activación de rutas intersectoriales debe realizarse:',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Solo después de la denuncia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'De manera secuencial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'De forma simultánea y oportuna.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Únicamente por orden judicial.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            'En casos de niñas, niños y adolescentes víctimas de violencia sexual, el aviso a las autoridades es:',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Opcional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Obligatorio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Condicionado a la familia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Exclusivo del sector justicia.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            'El restablecimiento de derechos de niños, niñas y adolescentes es un proceso:',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Judicial y sancionatorio.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Exclusivamente clínico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Administrativo e integral.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Temporal y opcional.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            'El seguimiento intersectorial de los casos tiene como finalidad principal:',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Cerrar rápidamente el caso.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Sustituir la atención clínica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Verificar la efectividad de las medidas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Centralizar la información judicial.',
               esCorrecta: false,
             },
           ],
