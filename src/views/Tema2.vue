@@ -317,97 +317,97 @@
                       alt='Figura 1. Equilibrio en la indicación de profilaxis y anticoncepción. La imagen representa una balanza que ilustra el análisis clínico entre la profilaxis para hepatitis B, basada en el antecedente vacunal y su registro en historia clínica, y la anticoncepción de emergencia, orientada al riesgo de embarazo y a su mayor efectividad temprana. La figura destaca la necesidad de decisiones oportunas, informadas y registradas adecuadamente.'
                     )
 
-      separador
-      #t_2_3.titulo-segundo.color-acento-contenido
-        h2 2.3 Seguimiento clínico
+    separador
+    #t_2_3.titulo-segundo.color-acento-contenido
+      h2 2.3 Seguimiento clínico
 
-      .row.align-items-center
-        .col-lg-8
-          p El seguimiento clínico de la profilaxis es una fase esencial de la atención integral, orientada a garantizar la adherencia al tratamiento, detectar efectos adversos e identificar oportunamente infecciones incidentes. Debe planificarse desde el primer contacto y no considerarse una acción secundaria.
-          
-          p El seguimiento garantiza la efectividad del tratamiento y la seguridad de la persona atendida. Para ello, se deben considerar las siguientes acciones:
+    .row.align-items-center
+      .col-lg-8
+        p El seguimiento clínico de la profilaxis es una fase esencial de la atención integral, orientada a garantizar la adherencia al tratamiento, detectar efectos adversos e identificar oportunamente infecciones incidentes. Debe planificarse desde el primer contacto y no considerarse una acción secundaria.
+        
+        p El seguimiento garantiza la efectividad del tratamiento y la seguridad de la persona atendida. Para ello, se deben considerar las siguientes acciones:
 
-          .row.mt-2.bg-base.p-3.bg-base6.bg-r8
-            .col-12
-              ul.lista-ul--color
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Control clínico: evaluación periódica del estado de salud y detección de signos de alarma.
-                  
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Tolerancia al medicamento: valoración de posibles efectos adversos.
-                  
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Cumplimiento del esquema: verificación de los 28 días en el caso de la PEP para VIH.
-                  
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Adherencia al tratamiento: orientación sobre la importancia de no suspender la medicación.
-                  
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Efectos secundarios: explicación clara sobre posibles reacciones y manejo esperado.
-                  
-                li.d-flex.align-items-start
-                  span.icono-img
-                  p.mb-0 Canales de consulta: disponibilidad de orientación ante síntomas o dudas.
+        .row.mt-2.bg-base.p-3.bg-base6.bg-r8
+          .col-12
+            ul.lista-ul--color
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Control clínico: evaluación periódica del estado de salud y detección de signos de alarma.
+                
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Tolerancia al medicamento: valoración de posibles efectos adversos.
+                
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Cumplimiento del esquema: verificación de los 28 días en el caso de la PEP para VIH.
+                
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Adherencia al tratamiento: orientación sobre la importancia de no suspender la medicación.
+                
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Efectos secundarios: explicación clara sobre posibles reacciones y manejo esperado.
+                
+              li.d-flex.align-items-start
+                span.icono-img
+                p.mb-0 Canales de consulta: disponibilidad de orientación ante síntomas o dudas.
 
-        .col-lg-4.d-none.d-lg-block
-          figure(data-aos="fade-up")
-            img(src='@/assets/curso/tema2/17.png', alt='', style="width: 390px").m-auto     
+      .col-lg-4.d-none.d-lg-block
+        figure(data-aos="fade-up")
+          img(src='@/assets/curso/tema2/17.png', alt='', style="width: 390px").m-auto     
 
 
-      p.mt-4 El seguimiento clínico y psicosocial requiere una planificación organizada y articulada. La siguiente tabla resume los momentos diagnósticos, los criterios de control y la integración con la salud mental, garantizando continuidad, confidencialidad y prevención de la revictimización.
+    p.mt-4 El seguimiento clínico y psicosocial requiere una planificación organizada y articulada. La siguiente tabla resume los momentos diagnósticos, los criterios de control y la integración con la salud mental, garantizando continuidad, confidencialidad y prevención de la revictimización.
 
-      .row.justify-content-center
-        .col-lg-10
-          .titulo-sexto.color-acento-contenido.mb-3.mt-4
-            h5 Tabla 1.
-            span Seguimiento clínico y articulación en salud mental
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-3.mt-4
+          h5 Tabla 1.
+          span Seguimiento clínico y articulación en salud mental
 
-          .tabla-a.color-acento-contenido
-            table
-              thead(style="background-color: #E3F1EE")
-                tr
-                  th Componente
-                  th Acciones de seguimiento
-                  th Momento o criterio
-                  th Aspectos clave
-              tbody
-                tr
-                  th Pruebas diagnósticas ITS
-                  td VIH, sífilis y otras infecciones de transmisión sexual
-                  td Línea basal, 6 semanas, 3 meses y, cuando corresponda, 6 meses
-                  td Realizar con confidencialidad y registro adecuado
-                tr
-                  th Hepatitis B
-                  td Evaluación serológica según antecedente vacunal
-                  td Según esquema y tiempos establecidos
-                  td Verificar esquema completo y necesidad de refuerzo
-                tr
-                  th Prueba de embarazo
-                  td Confirmación diagnóstica
-                  td Cuando exista riesgo de gestación
-                  td Aplicar según criterio clínico
-                tr
-                  th Confidencialidad
-                  td Protección de la información clínica
-                  td Durante todo el proceso
-                  td Evitar revictimización
-                tr
-                  th Salud mental
-                  td Evaluación del bienestar psicológico
-                  td Desde el inicio y durante el seguimiento
-                  td Identificar síntomas que afecten adherencia
-                tr
-                  th Remisión especializada
-                  td Gestión de apoyo psicológico o psiquiátrico
-                  td Cuando se identifiquen alteraciones emocionales
-                  td Garantizar continuidad y articulación intersectorial
+        .tabla-a.color-acento-contenido
+          table
+            thead(style="background-color: #E3F1EE")
+              tr
+                th Componente
+                th Acciones de seguimiento
+                th Momento o criterio
+                th Aspectos clave
+            tbody
+              tr
+                th Pruebas diagnósticas ITS
+                td VIH, sífilis y otras infecciones de transmisión sexual
+                td Línea basal, 6 semanas, 3 meses y, cuando corresponda, 6 meses
+                td Realizar con confidencialidad y registro adecuado
+              tr
+                th Hepatitis B
+                td Evaluación serológica según antecedente vacunal
+                td Según esquema y tiempos establecidos
+                td Verificar esquema completo y necesidad de refuerzo
+              tr
+                th Prueba de embarazo
+                td Confirmación diagnóstica
+                td Cuando exista riesgo de gestación
+                td Aplicar según criterio clínico
+              tr
+                th Confidencialidad
+                td Protección de la información clínica
+                td Durante todo el proceso
+                td Evitar revictimización
+              tr
+                th Salud mental
+                td Evaluación del bienestar psicológico
+                td Desde el inicio y durante el seguimiento
+                td Identificar síntomas que afecten adherencia
+              tr
+                th Remisión especializada
+                td Gestión de apoyo psicológico o psiquiátrico
+                td Cuando se identifiquen alteraciones emocionales
+                td Garantizar continuidad y articulación intersectorial
 
-      p.mt-4 El cierre del seguimiento debe registrarse en la historia clínica, incluyendo el cumplimiento del tratamiento, los resultados obtenidos y las orientaciones finales brindadas. Este cierre no significa finalizar el acompañamiento, sino integrar el caso al seguimiento clínico general y a la articulación intersectorial correspondiente.          
+    p.mt-4 El cierre del seguimiento debe registrarse en la historia clínica, incluyendo el cumplimiento del tratamiento, los resultados obtenidos y las orientaciones finales brindadas. Este cierre no significa finalizar el acompañamiento, sino integrar el caso al seguimiento clínico general y a la articulación intersectorial correspondiente.          
 
 
 </template>

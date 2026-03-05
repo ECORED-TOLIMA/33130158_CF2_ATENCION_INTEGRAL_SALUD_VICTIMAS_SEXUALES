@@ -372,4 +372,58 @@ figcaption
     transform: translate(-10%, -15%)
     width: 57px
 
+//Tarjeta izquierda
+.tarjeta-custom 
+  position: relative
+  display: flex
+  align-items: center
+  height: 100%
+  margin-left: 45px 
+  border-radius: 15px 
+
+  &__icon
+    position: absolute
+    left: -50px 
+    width: 100px
+    height: 100px
+    display: flex
+    align-items: center
+    justify-content: center
+    border-radius: 50%
+    
+    img 
+      width: m-auto // Tamaño del icono interno
+    
+
+  &__text
+    padding-left: 55px
+    h4 
+      margin-bottom: 5px
+    
+    p 
+      margin-bottom: 0
+
+// Ajuste para móvil
+@media (max-width: $bp-max-sm)
+  .tarjeta-custom
+    margin-left: 0
+    margin-top: 50px
+    flex-direction: column
+    padding-top: 60px !important
+    
+    &__icon
+      left: 50%
+      top: -50px
+      transform: translateX(-50%)
+    
+    &__text
+      padding-left: 0
+      text-align: center
+
+//Custom Punto Caliente
+.img-infografica.color-primario .img-infografica__item__dot:before
+  background-color: #565097
+
+.img-infografica.color-primario .img-infografica__item__numero
+  color: $white
 
