@@ -40,12 +40,13 @@
  
     .row.justify-content-center.mt-4.mb-2
       .col-lg-4.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema1/4.svg', alt='Estructura lógica', style='width: 80px')
+                figure.icono-hover(data-aos="zoom-in")
+                  img.icon-normal(src='@/assets/curso/tema1/4.svg', style='width: 80px')
+                  img.icon-hover(src='@/assets/curso/tema1/4h.svg', style='width: 80px')
           h4.mb-0 Garantizar atención inmediata en salud
           .row.align-items-center.mt-4
             .col-lg-12.mb-lg-0
@@ -60,13 +61,15 @@
                   i.lista-ul__vineta
                   p.mb-0 Sin discriminación por edad, sexo, identidad de género, orientación sexual o contexto
 
+
       .col-lg-4.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema1/5.svg', alt='Ideas generales', style='width: 80px')
+                figure.icono-hover(data-aos="zoom-in")
+                  img.icon-normal(src='@/assets/curso/tema1/5.svg', style='width: 80px')
+                  img.icon-hover(src='@/assets/curso/tema1/5h.svg', style='width: 80px')
           h4.mb-0 Brindar un entorno seguro y confidencial
           .row.align-items-center.mt-4
             .col-lg-12.mb-lg-0
@@ -81,13 +84,15 @@
                   i.lista-ul__vineta
                   p.mb-0 Comunicación clara y comprensible
 
+
       .col-lg-4.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema1/6.svg', alt='Ideas principales', style='width: 80px')
+                figure.icono-hover(data-aos="zoom-in")
+                  img.icon-normal(src='@/assets/curso/tema1/6.svg', style='width: 80px')
+                  img.icon-hover(src='@/assets/curso/tema1/6h.svg', style='width: 80px')
           h4.mb-0 Identificar tempranamente situaciones de riesgo
           .row.align-items-center.mt-4
             .col-lg-12.mb-lg-0

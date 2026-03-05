@@ -433,3 +433,24 @@ figcaption
 .img-infografica.color-primario .img-infografica__item__numero
   color: $white
 
+.icono-hover
+  position: relative
+  width: 80px
+  margin: auto
+
+.icono-hover img
+  width: 80px
+  transition: opacity .3s ease
+
+.icono-hover .icon-hover
+  position: absolute
+  top: 0
+  left: 0
+  opacity: 0
+
+.tarjeta-hover:hover .icon-hover
+  opacity: 1
+
+.tarjeta-hover:hover .icon-normal
+  opacity: 0
+
