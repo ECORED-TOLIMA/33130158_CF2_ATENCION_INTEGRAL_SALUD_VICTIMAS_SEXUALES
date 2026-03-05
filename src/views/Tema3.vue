@@ -164,36 +164,40 @@
         figure
           img(src='@/assets/curso/tema3/7.png', alt='', style="width: 390px").m-auto
 
-    .row.justify-content-center.mt-4.mb-4
+    .row.justify-content-center.mt-lg-4.mt-0.mb-4
       .col-lg-10
         .row.align-items-center.mt-4
           .col-lg-12
             .row.justify-content-center
               .col-12
                 .row.bg-12.bg-r8
-                  ImagenInfografica.color-primario
-                    template(v-slot:imagen)
-                      figure
-                        img.d-none.d-md-block.m-auto.p-5(
-                          src='@/assets/curso/tema3/8.svg', style="width: 70%"
-                          alt=''
-                        )
-                        img.d-block.d-md-none.m-auto.p-3(
-                          src='@/assets/curso/tema3/9.svg',
-                          alt=''
-                        )
-                    
-                    .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="30%" y="15%" numero="+")
-                      p.d-none.d-md-block Confirmación clínica del embarazo.
-                    .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="50%" y="15%" numero="+")
-                      p.d-none.d-md-block Manifestación de voluntad de la persona gestante.
-                    .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="70%" y="15%" numero="+")
-                      p.d-none.d-md-block Certificación del hecho de violencia sexual (sin denuncia obligatoria).
-                    .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="40%" y="85%" numero="+")
-                      p.d-none.d-md-block Información sobre procedimientos según edad gestacional.
-                    .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="60%" y="85%" numero="+")
-                      p.d-none.d-md-block Remisión oportuna si no hay capacidad resolutiva.
+                  .d-none.d-md-block
+                    ImagenInfografica.color-primario
+                      template(v-slot:imagen)
+                        figure
+                          img.d-none.d-md-block.m-auto.p-5(
+                            src='@/assets/curso/tema3/8.svg', style="width: 70%"
+                            alt=''
+                          )
+                          img.d-block.d-md-none.m-auto.p-3(
+                            src='@/assets/curso/tema3/9.svg',
+                            alt=''
+                          )
+                      
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="28.5%" y="15%" numero="+")
+                        p.d-none.d-md-block Confirmación clínica del embarazo.
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="50%" y="15%" numero="+")
+                        p.d-none.d-md-block Manifestación de voluntad de la persona gestante.
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="71%" y="15%" numero="+")
+                        p.d-none.d-md-block Certificación del hecho de violencia sexual (sin denuncia obligatoria).
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="39.2%" y="85%" numero="+")
+                        p.d-none.d-md-block Información sobre procedimientos según edad gestacional.
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="61%" y="85%" numero="+")
+                        p.d-none.d-md-block Remisión oportuna si no hay capacidad resolutiva.
 
+                  figure.d-block.d-md-none
+                    img.m-auto(
+                      src='@/assets/curso/tema3/9.svg')
 
     .row.align-items-center.justify-content-center
       .col-lg-12
