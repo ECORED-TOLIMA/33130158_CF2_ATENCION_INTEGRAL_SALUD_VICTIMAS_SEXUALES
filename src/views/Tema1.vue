@@ -238,6 +238,8 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Consentimiento informado
+    
+    p.mt-4 El consentimiento informado constituye un requisito ético y legal en la atención en salud (Ministerio de Salud y Protección Social, 2011). Su aplicación debe entenderse como un proceso permanente y no como un trámite puntual, particularmente en la atención inicial a víctimas de violencias sexuales. En este momento, el talento humano debe:
 
     .row
       .col-12
@@ -254,7 +256,7 @@
                     .col-8
                       img(src='@/assets/curso/tema1/19.svg', style="max-width: 90px").m-auto
                   p.text-center
-                    b Definir la prioridad de atención:
+                    b Explicar de manera clara y comprensible:
                   ul.lista-ul--color
                     li.d-flex.align-text-center.mb-0
                       span.lista-ul__vineta
@@ -370,6 +372,9 @@
                     li
                       i.lista-ul__vineta
                       p.mb-0 Consentimientos otorgados o rechazados.
+                    li
+                      i.lista-ul__vineta
+                      p.mb-0 Orientaciones brindadas a la persona.
 
           .row(numero="2" titulo="Características del registro")
             .col-md-12.mb-4.mb-md-0

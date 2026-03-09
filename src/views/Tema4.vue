@@ -28,6 +28,8 @@
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
+    p.mt-4 Después de escuchar el pódcast, se presenta la #[b figura 2], que organiza de manera visual los componentes de la atención inicial en salud mental. El esquema muestra la evaluación emocional inicial, la identificación de posibles riesgos y las acciones que deben realizarse según cada caso. Esta representación facilita la comprensión del proceso y apoya su aplicación en la práctica asistencial.
+
     .row.justify-content-center.mt-4.mb-4
       .col-lg-10
         .row.align-items-center.mt-4

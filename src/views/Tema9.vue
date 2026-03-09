@@ -96,14 +96,14 @@
         .row.align-items-center.mt-4
           .col-lg-12
             .row.justify-content-center
-              .col-10
+              .col-12
                 .titulo-sexto.color-acento-contenido.mb-3.mt-4
                   h5 Figura 3.
                   span Diferencias entre aviso formal y aviso no formal en casos de violencia sexual
-                .row.bg-12
-                  figure
-                    img.d-none.d-md-block.m-auto.p-4(
-                      src='@/assets/curso/tema9/12.svg', style="width: 70%"
+                .row.bg-12.bg-r8
+                  figure.mt-4.mb-3
+                    img.d-none.d-md-block.m-auto.p-2(
+                      src='@/assets/curso/tema9/12.svg', style="width: 80%"
                       alt='Figura 2. Diagrama que muestra la atención inicial en salud mental: inicia con evaluación emocional, continúa con la identificación de riesgo de hacerse daño o dañar a otros y define dos acciones posibles: continuar acompañamiento o activar atención especializada inmediata.'
                     )
                     img.d-block.d-md-none.m-auto.p-4(

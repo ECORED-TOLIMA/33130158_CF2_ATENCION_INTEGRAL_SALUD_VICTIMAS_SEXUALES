@@ -19,8 +19,8 @@
           
           .col
             .cajon.color1.p-3
-              p Para comprender el alcance de la articulación forense, es necesario identificar los elementos que orientan la coordinación entre el sector salud y las autoridades competentes. A continuación, se presentan los aspectos relacionados con la coordinación con medicina legal, la identificación de posibles elementos probatorios, la cadena de custodia y los límites del rol del sector salud, así como las acciones dirigidas a prevenir la revictimización:
-          
+              p En este marco, el sector salud cumple un papel esencial en la identificación del riesgo, la activación de las rutas de protección y el seguimiento intersectorial, actuando con enfoque preventivo y articulador, sin asumir competencias judiciales o administrativas de otros sectores. En contextos intrafamiliares, el riesgo de reiteración suele incrementarse debido a factores como la convivencia, la dependencia económica o los vínculos de cuidado, lo que exige una respuesta inmediata y reforzada de protección.
+              
         .row.align-items-start.mt-3
           .col-lg-5.mb-lg-0.mb-4
             figure(data-aos="fade-down").d-none.d-lg-block
@@ -62,7 +62,7 @@
                   p.mb-0 Seguimiento continuo desde el sector salud.
 
             //-2da pestaña  
-            .row(titulo="Posibles elementos probatorios")
+            .row(titulo="Protección en casos de violencia sociopolítica y conflicto armado")
               ul.lista-ul--color.espacio-li
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
@@ -85,7 +85,7 @@
                   p.mb-0 Aplicación de enfoque diferencial étnico y territorial.
                 
             //-3ra pestaña
-            .row(titulo="Cadena de custodia y límites del rol del sector salud")
+            .row(titulo="Protección en casos de violencia en otros ámbitos")
               ul.lista-ul--color.espacio-li
                 li.d-flex.align-items-start
                   i.lista-ul__vineta

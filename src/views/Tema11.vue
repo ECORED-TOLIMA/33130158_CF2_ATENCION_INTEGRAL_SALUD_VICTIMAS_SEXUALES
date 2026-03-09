@@ -232,9 +232,9 @@
         .row.align-items-start.mt-3
           .col
             .cajon.color2.p-3
-              p Para comprender el alcance de la articulación forense, es necesario identificar los elementos que orientan la coordinación entre el sector salud y las autoridades competentes. A continuación, se presentan los aspectos relacionados con la coordinación con medicina legal, la identificación de posibles elementos probatorios, la cadena de custodia y los límites del rol del sector salud, así como las acciones dirigidas a prevenir la revictimización:
-          
-        .row.align-items-start.mt-3
+              p #[b El trámite especial de emergencia se fundamenta en el principio de protección reforzada y en la obligación del Estado de actuar con debida diligencia para prevenir daños irreparables, conforme a la Constitución Política de Colombia (1991) y al Decreto 1066 de 2015 (Ministerio del Interior, 2015).]
+              
+        .row.align-items-start.mt-4
           .col-lg-2.mb-lg-0.mb-4
             figure(data-aos="fade-down").d-none.d-lg-block
               img(src='@/assets/curso/tema11/17.svg', style='width: 100%').m-auto

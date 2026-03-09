@@ -151,6 +151,8 @@
                     i.lista-ul__vineta
                     p.mb-0 Activar, si aplica, la ruta para Interrupción Voluntaria del Embarazo (IVE) conforme a la normativa vigente.
 
+    p.mt-4 La anticoncepción de emergencia debe ofrecerse de manera sistemática a toda persona con capacidad de gestar que haya sido víctima de violencia sexual, como parte de la atención inicial en salud. Su administración debe realizarse lo antes posible, preferiblemente dentro de las primeras ciento veinte (120) horas posteriores al evento, sin exigir requisitos adicionales como denuncia penal, autorizaciones administrativas o exámenes previos.
+
     .titulo-tres.mt-5: h3 Acceso a la IVE         
 
     .row.align-items-center

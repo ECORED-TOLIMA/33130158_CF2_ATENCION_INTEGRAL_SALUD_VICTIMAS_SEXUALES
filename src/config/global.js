@@ -258,6 +258,11 @@ export default {
         'conjunto de tratamientos farmacológicos administrados de manera oportuna para reducir el riesgo de infecciones de transmisión sexual, incluido el VIH, tras una exposición de riesgo.',
     },
     {
+      termino: 'Registro Individual de Prestación de Servicios de Salud (RIPS)',
+      significado:
+        'sistema de información que consolida los datos de los servicios de salud prestados, permitiendo la trazabilidad administrativa, el seguimiento institucional y la facturación.',
+    },
+    {
       termino: 'Restablecimiento de derechos',
       significado:
         'proceso orientado a garantizar que las personas víctimas recuperen el ejercicio pleno de sus derechos fundamentales, mediante acciones articuladas entre los sectores de salud, protección, justicia y asistencia social.',
@@ -302,6 +307,11 @@ export default {
     {
       referencia:
         'Corte Constitucional de Colombia. (2022). <em>Sentencia C-055 de 2022</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Salud. (s. f.). <em>Lineamientos del Sistema de Vigilancia en Salud Pública – SIVIGILA.</em>',
       link: '',
     },
     {

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Marco conceptual
+      h1 2.	Profilaxis y prevención en salud
 
     .row.align-items-center.mt-4
       .col-lg-8
@@ -228,6 +228,9 @@
                   li 
                     i.lista-ul__vineta
                     p.mb-0 El objetivo del tratamiento.
+                  li 
+                    i.lista-ul__vineta
+                    p.mb-0 La duración estimada.
                   li
                     i.lista-ul__vineta
                     p.mb-0 La importancia de cumplirlo de manera completa.

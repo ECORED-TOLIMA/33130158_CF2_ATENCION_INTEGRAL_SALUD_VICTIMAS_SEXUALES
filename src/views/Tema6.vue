@@ -136,6 +136,27 @@
         figure(data-aos="fade-down")
           img(src='@/assets/curso/tema6/4.svg', alt='', style="width: 400px").m-auto
 
+    
+    .row.align-items-center.mt-4
+      p Importancia del RIPS en la atención integral
+      .col-lg-12.mb-lg-0
+        ul.lista-ul--color.p-4
+          li
+            i.lista-ul__vineta
+            p.mb-0 Soportar la facturación y reconocimiento de los servicios prestados.
+          li
+            i.lista-ul__vineta
+            p.mb-0 Facilitar el seguimiento institucional de los casos atendidos.
+          li
+            i.lista-ul__vineta
+            p.mb-0 Identificar brechas en la prestación de servicios de salud.
+          li
+            i.lista-ul__vineta
+            p.mb-0 Contribuir al análisis de la oferta y demanda de atención.
+          li
+            i.lista-ul__vineta
+            p.mb-0 Apoyar la planeación y mejora continua de los servicios.
+    
     .row.align-items-center.mt-4
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-down")

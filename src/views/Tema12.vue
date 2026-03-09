@@ -23,7 +23,7 @@
           .titulo-tres.mt-5: h3 Concepto de restablecimiento de derechos
 
           .row.align-items-center
-            .col-lg-9
+            .col-lg-8
               p El restablecimiento de derechos se define como el conjunto de decisiones administrativas, acciones intersectoriales y medidas de protección orientadas a cesar la vulneración, prevenir su repetición y garantizar el ejercicio pleno de los derechos de los niños, niñas y adolescentes afectados por violencias sexuales.
 
               p Este proceso se caracteriza por:
@@ -34,30 +34,30 @@
                     .crd.bg-base.bg-r8.p-4.h-100.w-100
                       figure.mb-2(data-aos="zoom-in")
                         img(src='@/assets/curso/tema12/2.svg', style='width: 40px')
-                      p.mb-0 Derecho a la vida y a la integridad física y mental.
+                      p.mb-0 No tener naturaleza sancionatoria.
                 
                   .col-lg-3.d-flex.mt-4.mt-lg-0
                     .crd.bg-base.bg-r8.p-4.h-100.w-100
                       figure.mb-2(data-aos="zoom-in")
                         img(src='@/assets/curso/tema12/3.svg', style='width: 40px')
-                      p.mb-0 Derecho a la dignidad humana.
+                      p.mb-0 No depender de la denuncia penal.
                 
                   .col-lg-3.d-flex.mt-4.mt-lg-0
                     .crd.bg-base.bg-r8.p-4.h-100.w-100
                       figure.mb-2(data-aos="zoom-in")
                         img(src='@/assets/curso/tema12/4.svg', style='width: 40px')
-                      p.mb-0 Derecho a la libertad y a la autonomía personal.
+                      p.mb-0 No agotarse en una sola actuación.
               
                   .col-lg-3.d-flex.mt-4.mt-lg-0
                     .crd.bg-base.bg-r8.p-4.h-100.w-100
                       figure.mb-2(data-aos="zoom-in")
                         img(src='@/assets/curso/tema12/5.svg', style='width: 20px')
-                      p.mb-0 Derecho a la igualdad y a la no discriminación.
+                      p.mb-0 Mantenerse mientras persista la situación de riesgo o vulneración.
                 
 
-            .col-lg-3.d-lg-block.d-none
+            .col-lg-4.d-lg-block.d-none
               figure
-                img(src='@/assets/curso/tema12/7.png', alt='', style="width: 396px").m-auto
+                img(src='@/assets/curso/tema12/6.svg', alt='', style="width: 100%").m-auto
 
           p.mt-4 Además, implica una evaluación integral de las condiciones del niño, niña o adolescente, que incluye su entorno familiar, social, educativo y comunitario, así como la identificación de factores de riesgo y de protección que orienten la adopción de medidas adecuadas.
 
