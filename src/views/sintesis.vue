@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Mapa conceptual titulado “Atención intersectorial y restablecimiento de derechos”. Presenta un nodo central del cual se derivan cinco componentes principales. Estos son: articulación entre sectores, activación de rutas de atención, acceso a la justicia, medidas de protección y restablecimiento de derechos. Cada componente incluye acciones específicas relacionadas con coordinación, registro, acompañamiento y seguimiento. El esquema muestra cómo estas acciones se integran para garantizar la protección y los derechos de las personas afectadas.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

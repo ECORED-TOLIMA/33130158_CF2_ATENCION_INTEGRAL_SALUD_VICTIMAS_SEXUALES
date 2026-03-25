@@ -99,7 +99,7 @@
                   ul.lista-ul--color
                     li.d-flex.align-items-start
                       span.icono-img
-                      p.mb-0 Establece medidas para prevenir, sancionar y erradicar violencia contra la mujer.
+                      p.mb-0 Establece medidas para prevenir, sancionar y erradicar la violencia contra la mujer.
                       
                     li.d-flex.align-items-start
                       span.icono-img
@@ -184,16 +184,16 @@
               ul.lista-ul--color
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
-                  p.mb-0 Proteger frente a amenazas derivadas del proceso penal.   
+                  p.mb-0.text-start Proteger frente a amenazas derivadas del proceso penal.   
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
-                  p.mb-0 Garantizar condiciones seguras para declarar.
+                  p.mb-0.text-start Garantizar condiciones seguras para declarar.
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
-                  p.mb-0 Prevenir represalias.
+                  p.mb-0.text-start Prevenir represalias.
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
-                  p.mb-0 Facilitar el acceso efectivo a la justicia.
+                  p.mb-0.text-start Facilitar el acceso efectivo a la justicia.
 
           .row.align-items-start.mt-4
             .col-lg-1.mb-lg-0.mb-4
@@ -246,7 +246,7 @@
     .row.justify-content-center.mt-4
       .col-lg-4.mb-4.mb-lg-0
         //-Tarjeta 1
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
+        .tarjeta.clr-paleYellow.p-4.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
@@ -271,7 +271,7 @@
 
       .col-lg-4.mb-4.mb-lg-0
         //-Tarjeta 2
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
+        .tarjeta.clr-paleYellow.p-4.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
@@ -299,7 +299,7 @@
 
       .col-lg-4.mb-4.mb-lg-0
         //-Tarjeta 3
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-base7.h-100.tarjeta-hover
+        .tarjeta.clr-paleYellow.p-4.bg-base7.h-100.tarjeta-hover
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado

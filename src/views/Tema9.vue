@@ -104,15 +104,15 @@
                   figure.mt-4.mb-3
                     img.d-none.d-md-block.m-auto.p-2(
                       src='@/assets/curso/tema9/12.svg', style="width: 80%"
-                      alt='Figura 2. Diagrama que muestra la atención inicial en salud mental: inicia con evaluación emocional, continúa con la identificación de riesgo de hacerse daño o dañar a otros y define dos acciones posibles: continuar acompañamiento o activar atención especializada inmediata.'
+                      alt='Figura 3. Diferencias entre aviso formal y aviso no formal en casos de violencia sexual. Esquema comparativo que presenta dos modalidades de notificación: el aviso formal, que corresponde a la denuncia penal ante autoridad competente e implica apertura de investigación, y el aviso no formal, que consiste en comunicación institucional para activar medidas de protección sin iniciar necesariamente un proceso penal. '
                     )
                     img.d-block.d-md-none.m-auto.p-4(
                       src='@/assets/curso/tema9/13.svg',
-                      alt='Figura 2. Diagrama que muestra la atención inicial en salud mental: inicia con evaluación emocional, continúa con la identificación de riesgo de hacerse daño o dañar a otros y define dos acciones posibles: continuar acompañamiento o activar atención especializada inmediata.'
+                      alt='Figura 3. Diferencias entre aviso formal y aviso no formal en casos de violencia sexual. Esquema comparativo que presenta dos modalidades de notificación: el aviso formal, que corresponde a la denuncia penal ante autoridad competente e implica apertura de investigación, y el aviso no formal, que consiste en comunicación institucional para activar medidas de protección sin iniciar necesariamente un proceso penal. '
                     )
                     img.d-block.d-md-none.m-auto.p-4(
                       src='@/assets/curso/tema9/14.svg',
-                      alt='Figura 2. Diagrama que muestra la atención inicial en salud mental: inicia con evaluación emocional, continúa con la identificación de riesgo de hacerse daño o dañar a otros y define dos acciones posibles: continuar acompañamiento o activar atención especializada inmediata.'
+                      alt='Figura 3. Diferencias entre aviso formal y aviso no formal en casos de violencia sexual. Esquema comparativo que presenta dos modalidades de notificación: el aviso formal, que corresponde a la denuncia penal ante autoridad competente e implica apertura de investigación, y el aviso no formal, que consiste en comunicación institucional para activar medidas de protección sin iniciar necesariamente un proceso penal. '
                     )
                   figcaption Nota. Adaptado de la Ley 906 de 2004, la Ley 1098 de 2006, la Ley 1146 de 2007 y la Ley 1257 de 2008.
 

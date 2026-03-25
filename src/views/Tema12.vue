@@ -125,7 +125,7 @@
         .row.mt-4.bg-base9.p-2.bg-r8
           .col-12
 
-            p Principales medidas
+            p Principales medidas:
 
             ul.lista-ul--color
               li.d-flex.align-items-start
@@ -197,7 +197,7 @@
             
             p.mt-3 Este proceso busca asegurar que cada entidad cumpla con las responsabilidades asignadas dentro de la ruta de atención.
             
-            p.mt-3 Elementos de verificación
+            p.mt-3 Elementos de verificación:
             
             ul.lista-ul--color
               li.d-flex.align-items-start

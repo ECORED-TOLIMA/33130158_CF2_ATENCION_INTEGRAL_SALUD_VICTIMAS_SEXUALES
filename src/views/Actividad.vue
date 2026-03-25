@@ -213,7 +213,7 @@ export default {
         },
         {
           id: 7,
-          texto: 'Opción a)',
+          texto: 'Los primeros auxilios psicológicos se caracterizan por ser:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -230,6 +230,11 @@ export default {
             {
               id: 'c',
               texto: 'Valoración judicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Psicoterapia especializada.',
               esCorrecta: false,
             },
           ],
@@ -408,7 +413,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Sancionar al aggressor.',
+              texto: 'Sancionar al agresor.',
               esCorrecta: false,
             },
             {

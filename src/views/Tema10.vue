@@ -47,7 +47,7 @@
                   
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
-                  p.mb-0 Aviso a Comisarías de Familia o autoridad competente.
+                  p.mb-0 Aviso a comisarías de familia o autoridad competente.
                   
                 li.d-flex.align-items-start
                   i.lista-ul__vineta
