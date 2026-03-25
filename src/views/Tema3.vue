@@ -220,31 +220,31 @@
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/11.svg', style='width: 40px')
-                p.mb-0 1. Ingreso al servicio de salud (víctima de violencia sexual)
+                p.mb-0 1. Ingreso al servicio de salud (víctima de violencia sexual).
       
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/12.svg', style='width: 40px')
-                p.mb-0 2. Atención clínica inicial inmediata (enfoque de derechos y sin juicios de valor)
+                p.mb-0 2. Atención clínica inicial inmediata (enfoque de derechos y sin juicios de valor).
       
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/13.svg', style='width: 40px')
-                p.mb-0 3. Confirmación clínica del embarazo (prueba según tiempo de gestación)
+                p.mb-0 3. Confirmación clínica del embarazo (prueba según tiempo de gestación).
 
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/14.svg', style='width: 40px')
-                p.mb-0 4. Manifestación de voluntad de la persona gestante
+                p.mb-0 4. Manifestación de voluntad de la persona gestante.
 
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/15.svg', style='width: 40px')
-                p.mb-0 5. Certificación del hecho de violencia sexual (sin exigir denuncia penal)
+                p.mb-0 5. Certificación del hecho de violencia sexual (sin exigir denuncia penal).
         
         .row.justify-content-center.mt-4
           .row.justify-content-center
@@ -252,31 +252,31 @@
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/16.svg', style='width: 40px')
-                p.mb-0 6. Información clara y completa sobre la IVE (procedimientos, riesgos, alternativas)
+                p.mb-0 6. Información clara y completa sobre la IVE (procedimientos, riesgos, alternativas).
       
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/17.svg', style='width: 40px')
-                p.mb-0 7. Consentimiento informado (libre, voluntario y documentado)
+                p.mb-0 7. Consentimiento informado (libre, voluntario y documentado).
       
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/18.svg', style='width: 40px')
-                p.mb-0 8. Selección del procedimiento según edad gestacional
+                p.mb-0 8. Selección del procedimiento según edad gestacional.
 
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/19.svg', style='width: 40px')
-                p.mb-0 9. Realización de la IVE (en IPS habilitada)
+                p.mb-0 9. Realización de la IVE (en IPS habilitada).
 
             .col-lg-2.d-flex.mt-4.mt-lg-0
               .crd.bg-base8.p-4.h-100.w-100
                 figure.mb-2(data-aos="zoom-in")
                   img(src='@/assets/curso/tema3/20.svg', style='width: 40px')
-                p.mb-0 10. Seguimiento clínico y en salud mental
+                p.mb-0 10. Seguimiento clínico y en salud mental.
 
     .row.align-items-center.mt-4
       .col-lg-8

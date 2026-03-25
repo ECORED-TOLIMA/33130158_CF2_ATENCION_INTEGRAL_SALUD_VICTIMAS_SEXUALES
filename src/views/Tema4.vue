@@ -22,9 +22,10 @@
         .row.bg-base8.p-4.align-items-center.justify-content-center
           .col-12.bg-11.p-4
             TarjetaAudio.color-acento-botones.mb-3.bg-11.p-3(
-                texto="podcast"
+                texto="Pódcast: Atención en salud mental"
                 :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
