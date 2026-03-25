@@ -45,7 +45,10 @@
                 p Descargue y revise el Modelo y Protocolo de Atención Integral en Salud para Víctimas de Violencia Sexual (Resolución 459 de 2012).
               
               .col-lg-3
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Resolucion_459_de_2012.pdf')" target="_blank")
+                a.boton.color-acento-botones(
+                  href="https://www.suin-juriscol.gov.co/derechos/Resolucion_459_2012.pdf?utm_source="
+                  target="_blank"
+                )
                   span Descargar
                   i.fas.fa-file-download
                 
