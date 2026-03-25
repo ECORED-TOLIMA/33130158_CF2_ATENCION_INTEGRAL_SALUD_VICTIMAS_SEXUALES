@@ -137,7 +137,7 @@
               
               //-3ra pestaña
               .row(titulo="Después de 120 horas (>5 días) Evaluación y orientación")
-                p La anticoncepción de emergencia no es efectiva. por lo tanto se debe:
+                p La anticoncepción de emergencia no es efectiva. Por lo tanto, se debe:
                 ul.lista-ul--color
                   li.d-flex.align-items-start
                     i.lista-ul__vineta
@@ -189,13 +189,13 @@
                       .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="28.5%" y="15%" numero="+")
                         p.d-none.d-md-block Confirmación clínica del embarazo.
                       .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="50%" y="15%" numero="+")
-                        p.d-none.d-md-block Manifestación de voluntad de la persona gestante.
-                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="71%" y="15%" numero="+")
                         p.d-none.d-md-block Certificación del hecho de violencia sexual (sin denuncia obligatoria).
-                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="39.2%" y="85%" numero="+")
-                        p.d-none.d-md-block Información sobre procedimientos según edad gestacional.
-                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="61%" y="85%" numero="+")
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="71%" y="15%" numero="+")
                         p.d-none.d-md-block Remisión oportuna si no hay capacidad resolutiva.
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="39.2%" y="85%" numero="+")
+                        p.d-none.d-md-block Manifestación de voluntad de la persona gestante.
+                      .tarjeta.color-acento-botones.p-3.d-none.d-md-block(x="61%" y="85%" numero="+")
+                        p.d-none.d-md-block Información sobre procedimientos según edad gestacional.
 
                   figure.d-block.d-md-none
                     img.m-auto(

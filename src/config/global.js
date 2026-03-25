@@ -127,7 +127,7 @@ export default {
       {
         nombreRuta: 'tema10',
         numero: '10',
-        titulo: 'Procedimientos de protección según contexto',
+        titulo: 'Procedimientos de protección según el contexto',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -335,14 +335,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez ',
+          cargo:
+            'Responsable Ecosistema de Recursos Educativos Digitales (RED) ',
+          centro: 'Dirección General  ',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Diana Rocío Possos Beltrán',
+          cargo: 'Responsable de línea de producción ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -350,9 +351,37 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Liliana M. Támara P.',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Osana Medina Bonilla',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Juan Camilo González ',
+          cargo: 'Asesor pedagógico',
+          centro: 'Ministerio de Salud y Protección Social ',
+        },
+        {
+          nombre: 'María Helena Tamayo',
+          cargo: 'Asesora pedagógica',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Briguitte Perea Possos',
+          cargo: 'Experta temática',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gloria Lida Alzate Suárez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -360,19 +389,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Juan Daniel Polanco Muñoz',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Manuel Felipe Echavarria Orozco',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -380,14 +409,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Pineda Mora',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jorge Bustos Gómez ',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },

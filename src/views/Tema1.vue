@@ -53,13 +53,13 @@
               ul.lista-ul--color.bg-r8.p-4.text-start
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Sin exigir denuncia previa
+                  p.mb-0 Sin exigir denuncia previa.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Sin barreras administrativas, económicas o institucionales
+                  p.mb-0 Sin barreras administrativas, económicas o institucionales.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Sin discriminación por edad, sexo, identidad de género, orientación sexual o contexto
+                  p.mb-0 Sin discriminación por edad, sexo, identidad de género, orientación sexual o contexto.
 
 
       .col-lg-4.mb-4.mb-lg-0
@@ -76,13 +76,13 @@
               ul.lista-ul--color.bg-r8.p-4.text-start
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Privacidad durante la atención
+                  p.mb-0 Privacidad durante la atención.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Trato respetuoso, empático y libre de juicios
+                  p.mb-0 Trato respetuoso, empático y libre de juicios.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Comunicación clara y comprensible
+                  p.mb-0 Comunicación clara y comprensible.
 
 
       .col-lg-4.mb-4.mb-lg-0
@@ -99,13 +99,13 @@
               ul.lista-ul--color.bg-r8.p-4.text-start
                 li
                   i.lista-ul__vineta
-                  p.mb-0 La situación puede no expresarse de forma directa
+                  p.mb-0 La situación puede no expresarse de forma directa.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 Los motivos de consulta pueden ser físicos, emocionales o inespecíficos
+                  p.mb-0 Los motivos de consulta pueden ser físicos, emocionales o inespecíficos.
                 li
                   i.lista-ul__vineta
-                  p.mb-0 No se debe forzar el relato de los hechos
+                  p.mb-0 No se debe forzar el relato de los hechos.
       
     .row.align-items-center.mt-4
       .col-lg-8
@@ -310,7 +310,7 @@
           
                     li.d-flex.align-items-start.mb-0
                       span.lista-ul__vineta
-                      p.mb-0 Intervenciones terapéuticas iniciales
+                      p.mb-0 Intervenciones terapéuticas iniciales.
       
                 .tarjeta.bg-11.p-4
                   .row.justify-content-center

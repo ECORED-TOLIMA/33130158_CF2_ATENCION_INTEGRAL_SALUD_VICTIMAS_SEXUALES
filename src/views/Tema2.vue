@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 2.	Profilaxis y prevención en salud
+      h1 Profilaxis y prevención en salud
 
     .row.align-items-center.mt-4
       .col-lg-8
@@ -41,7 +41,7 @@
                   img(src='@/assets/curso/tema2/4.svg', style='width: 90px').m-auto
               
               .col-lg-7
-                h4 Ministerio de Salud y Protección Social - Resolución No.00459 de 2012
+                h4 Ministerio de Salud y Protección Social - Resolución No. 00459 de 2012
                 p Descargue y revise el Modelo y Protocolo de Atención Integral en Salud para Víctimas de Violencia Sexual (Resolución 459 de 2012).
               
               .col-lg-3
@@ -73,11 +73,7 @@
 
         p.mt-4.mb-0 En el marco de la atención integral a víctimas de violencia sexual, la profilaxis constituye una medida prioritaria para prevenir infecciones y reducir riesgos en salud. Estas intervenciones deben ofrecerse de manera oportuna, conforme a la valoración clínica y a los lineamientos vigentes. A continuación, se presentan los principales tipos de profilaxis que orientan la atención inicial: para infecciones de transmisión sexual, para hepatitis B y la profilaxis posexposición para VIH.
 
-    .titulo-tres.mt-5: h3 Profilaxis para infecciones de transmisión sexual (ITS)
-
-    p.mt-4 La profilaxis sindromática busca prevenir infecciones que pueden adquirirse como consecuencia de la violencia sexual, aun cuando no existan síntomas al momento de la consulta. En la atención inicial se debe:
-
-    TabsC.color-acento-contenido
+    TabsC.color-acento-contenido.mt-4
       //- Pestaña 1
       .py-3.py-md-4.bg-base6(titulo="Profilaxis para infecciones de transmisión sexual (ITS)")
         .row.p-4
@@ -381,34 +377,34 @@
             tbody
               tr
                 th Pruebas diagnósticas ITS
-                td VIH, sífilis y otras infecciones de transmisión sexual
-                td Línea basal, 6 semanas, 3 meses y, cuando corresponda, 6 meses
-                td Realizar con confidencialidad y registro adecuado
+                td VIH, sífilis y otras infecciones de transmisión sexual.
+                td Línea basal, 6 semanas, 3 meses y, cuando corresponda, 6 meses.
+                td Realizar con confidencialidad y registro adecuado.
               tr
                 th Hepatitis B
-                td Evaluación serológica según antecedente vacunal
-                td Según esquema y tiempos establecidos
-                td Verificar esquema completo y necesidad de refuerzo
+                td Evaluación serológica según antecedente vacunal.
+                td Según esquema y tiempos establecidos.
+                td Verificar esquema completo y necesidad de refuerzo.
               tr
                 th Prueba de embarazo
-                td Confirmación diagnóstica
-                td Cuando exista riesgo de gestación
-                td Aplicar según criterio clínico
+                td Confirmación diagnóstica.
+                td Cuando exista riesgo de gestación.
+                td Aplicar según criterio clínico.
               tr
                 th Confidencialidad
-                td Protección de la información clínica
-                td Durante todo el proceso
-                td Evitar revictimización
+                td Protección de la información clínica.
+                td Durante todo el proceso.
+                td Evitar revictimización.
               tr
                 th Salud mental
-                td Evaluación del bienestar psicológico
-                td Desde el inicio y durante el seguimiento
-                td Identificar síntomas que afecten adherencia
+                td Evaluación del bienestar psicológico.
+                td Desde el inicio y durante el seguimiento.
+                td Identificar síntomas que afecten adherencia.
               tr
                 th Remisión especializada
-                td Gestión de apoyo psicológico o psiquiátrico
-                td Cuando se identifiquen alteraciones emocionales
-                td Garantizar continuidad y articulación intersectorial
+                td Gestión de apoyo psicológico o psiquiátrico.
+                td Cuando se identifiquen alteraciones emocionales.
+                td Garantizar continuidad y articulación intersectorial.
 
     p.mt-4 El cierre del seguimiento debe registrarse en la historia clínica, incluyendo el cumplimiento del tratamiento, los resultados obtenidos y las orientaciones finales brindadas. Este cierre no significa finalizar el acompañamiento, sino integrar el caso al seguimiento clínico general y a la articulación intersectorial correspondiente.          
 

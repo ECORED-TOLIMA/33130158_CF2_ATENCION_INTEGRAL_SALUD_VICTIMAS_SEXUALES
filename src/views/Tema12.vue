@@ -165,7 +165,7 @@
 
 
     separador
-    #t_12_1.titulo-segundo.color-acento-contenido
+    #t_12_2.titulo-segundo.color-acento-contenido
       h2 12.2 Seguimiento intersectorial
 
     .row.align-items-center
