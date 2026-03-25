@@ -37,7 +37,7 @@
               .col-lg-12.mb-lg-0
                 p El registro clínico inicia desde el primer contacto con el servicio de salud y se mantiene durante todo el proceso de intervención y seguimiento. Debe realizarse con enfoque diferencial, respetando la dignidad de la persona y garantizando confidencialidad.
 
-                p Componentes del registro clínico
+                p Componentes del registro clínico:
 
                 ul.lista-ul--color
                   li
@@ -66,7 +66,7 @@
                 .col-lg-12.mb-lg-0
                   p La notificación en SIVIGILA es el proceso mediante el cual el sector salud reporta obligatoriamente los casos de violencia sexual al sistema nacional de vigilancia, con el fin de realizar seguimiento epidemiológico y orientar acciones de prevención y control.
                   
-                  p Elementos clave de la notificación
+                  p Elementos clave de la notificación:
 
                   ul.lista-ul--color
                     li
@@ -89,7 +89,7 @@
                 .col-lg-12.mb-lg-0
                   p El Registro Individual de Prestación de Servicios de Salud (RIPS) constituye un componente esencial del proceso administrativo y de gestión en los casos de violencias sexuales, ya que permite documentar los servicios prestados y garantizar la trazabilidad institucional.
 
-                  p Elementos clave del registro en RIPS
+                  p Elementos clave del registro en RIPS:
 
                   ul.lista-ul--color
                     li
@@ -107,7 +107,7 @@
 
     p.mt-4 En coherencia con lo anterior, el registro en RIPS exige criterios técnicos claros que garanticen precisión y consistencia. A continuación, se presentan los aspectos clave para su adecuado diligenciamiento y su importancia en la atención integral a víctimas de violencias sexuales.
 
-    p Aspectos clave para el registro adecuado en RIPS
+    p Aspectos clave para el registro adecuado en RIPS:
 
     .row.align-items-center.mt-4
       .col-lg-8
@@ -138,7 +138,7 @@
 
     
     .row.align-items-center.mt-4
-      p Importancia del RIPS en la atención integral
+      p Importancia del RIPS en la atención integral:
       .col-lg-12.mb-lg-0
         ul.lista-ul--color.p-4
           li

@@ -65,7 +65,7 @@
               .row(titulo="Referencia y contrarreferencia")
                 p La referencia y contrarreferencia son mecanismos esenciales para garantizar la continuidad de la atención cuando se requiere mayor capacidad resolutiva.
 
-                p.mb-0 Criterios para referencia:
+                p Criterios para referencia:
 
                 ul.lista-ul--color
                   li.d-flex.align-items-start

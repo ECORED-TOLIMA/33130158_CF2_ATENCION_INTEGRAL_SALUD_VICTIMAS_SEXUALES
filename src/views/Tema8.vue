@@ -81,7 +81,7 @@
                 .col-lg-12.mb-lg-0
                   p El sector salud actúa como articulador operativo y no como autoridad jerárquica sobre otros sectores. Su función es facilitar el acceso efectivo a los servicios de protección y justicia, evitando la fragmentación de la atención.
                   
-                  p.mb-0 Funciones operativas:
+                  p Funciones operativas:
 
                   ul.lista-ul--color
                     li
@@ -109,7 +109,7 @@
                 .col-lg-12.mb-lg-0
                   p  La comunicación interinstitucional es un factor crítico para el funcionamiento adecuado de las rutas. Debe ser clara, oportuna, respetuosa de las competencias y centrada en la protección de la víctima.
 
-                  p.mb-0 Características principales:
+                  p Características principales:
 
                   ul.lista-ul--color
                     li
